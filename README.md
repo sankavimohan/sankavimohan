@@ -1,63 +1,77 @@
 # Hi there, I'm Mohan Sankavi! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic Computer Science undergraduate passionate about software development, AI, and exploring new technologies. This space showcases my **projects, contributions, and research work**. Feel free to explore and reach out if you’d like to collaborate!
+Welcome to my GitHub profile! I'm a Computer Science undergraduate passionate about AI, ML, NLP, software development and exploring new technologies. This space showcases my **projects, contributions, and research work**. Feel free to explore and reach out if you’d like to collaborate!
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Undergraduate Student** - BSc (Hons) in Computer Science, University of Jaffna (2021 - 2025)
-- 💻 **Aspiring Full-Stack Developer** - Exploring both **frontend** and **backend** technologies.
 - 🤖 **AI & NLP Researcher** - Currently working on a **Text-Based Emotion Recognition System in Tamil**.
+- 💻 **Aspiring Full-Stack Developer** - Exploring both **frontend** and **backend** technologies.
 
 ---
 
 ## 🛠 Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java  
-- **Frameworks:** React, Next.js, Tailwind CSS  
-- **Databases:** MySQL, MongoDB, Supabase  
-- **Tools:** Git, Figma  
-- **Other Areas:** IoT Prototyping, Basic Linux System Administration, Academic Research Writing
+- **Languages:** Python, Java, HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, scikit-learn, NLTK
+- **Databases:** MySQL, MongoDB, Supabase
+- **Tools:** Git, Figma
+- **Other Areas:** IoT, Basic Linux System Administration, Academic Research Writing
 
 ---
 
 ## 📚 Education
 
-- **BSc (Hons) Computer Science** - University of Jaffna (2021 - 2025)  
+- **BSc (Hons) Computer Science** - University of Jaffna (2021 - 2025)
 - **Advanced Level (Mathematics)** - V/Saivapragasa Ladies' College
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧁 Online Bakery Ordering System  
+## 📧 Spam Detection Web Application
+
+**Technologies:** Python, pandas, streamlit, scikit-learn  
+Developed a **machine learning-based spam detection system** using **NLP and classification using Multinomial Naïve Bayes**.
+
+### 🎬 Movie Review Sentiment Analysis
+
+**Technologies:** streamlit, scikit-learn, NLTK  
+Implemented **sentiment analysis on movie reviews** using **logistic regression** to classify positive/negative sentiments.
+
+### 🧁 Online Bakery Ordering System
+
 **Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase, PayHere.lk, Notify.lk  
 Built the **payment gateway integration**, designed the **database system**, and developed the **admin dashboard**.
 
-### 🎓 Online Certificate Download System  
-**Technologies:** HTML, CSS, PHP, MySQL  
-Designed and developed the **user interface** and handled **database connectivity**.
+### 🎓 Online Certificate Download System
 
-### 🚗 ParkEase - IoT Parking System  
-**Technologies:** Arduino, Ultrasonic Sensors, Servo Motors, LCD  
+**Technologies:** HTML, CSS, figma
+Designed and developed the **user interface**.
+
+### 🚗 ParkEase - IoT Parking System
+
+**Technologies:** C++, Arduino, Ultrasonic Sensors, Servo Motors, LCD  
 Developed a **hardware prototype** to automate parking management and display slot availability.
 
 ---
 
 ## 📖 Research Work
 
-**Text-Based Emotion Recognition in Tamil**  
-- Researching **NLP techniques** for Tamil emotion classification.  
-- Currently working on **correcting mislabeled data** and building a **transformer-based classifier**.
+**Text-Based Emotion Recognition in Tamil**
+
+- Researching **NLP techniques** for Tamil emotion classification.
+- Currently working on **correcting mislabeled data** and researching about new technologies.
 
 ---
 
 ## 🎉 Volunteering & Leadership
 
-- **Chairperson (2024)** - IEEE Computational Intelligence Society SBC, University of Jaffna  
-- **Programme Team Lead** - UoJ Corders V3.0 - 12-hour national coding competition  
-- **Practical Assistant** - IoT Certificate Course, University of Jaffna  
+- **Chairperson (2024)** - IEEE Computational Intelligence Society SBC, University of Jaffna
+- **Programme Team Lead** - UoJ Corders V3.0 - 12-hour national coding competition
+- **Instructor** - IoT Certificate Course, University of Jaffna
 
 ---
 
