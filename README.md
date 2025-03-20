@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a Computer Science undergraduate passionate ab
 
 ## 🌟 Featured Projects
 
-## 📧 Spam Detection Web Application
+### 📧 Spam Detection Web Application
 
 **Technologies:** Python, pandas, streamlit, scikit-learn  
 Developed a **machine learning-based spam detection system** using **NLP and classification using Multinomial Naïve Bayes**.
